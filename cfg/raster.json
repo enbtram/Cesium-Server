@@ -9,7 +9,7 @@
         {
           "__type": "ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1",
           "imageHeight": 256,
-          "imageUrl": "http://192.168.130.33:8001/tiles/{quadkey}",
+          "imageUrl": "http://127.0.0.1:8001/tiles/{quadkey}",
           "imageUrlSubdomains": [
             "t0",
             "t1",
@@ -68,20 +68,20 @@
               "coverageAreas": [
                 {
                   "bbox": [
-                    34.0135,
-                    124.3834,
-                    38.6701,
-                    129.8908
+                    0.000,
+                    0.000,
+                    0.000,
+                    0.000
                   ],
                   "zoomMax": 21,
                   "zoomMin": 8
                 },
                 {
                   "bbox": [
-                    37.3354,
-                    130.7187,
-                    37.6059,
-                    131.014
+                    0.000,
+                    0.000,
+                    0.000,
+                    0.000
                   ],
                   "zoomMax": 21,
                   "zoomMin": 8

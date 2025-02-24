@@ -30,7 +30,7 @@ def quad_to_index(quadkey):
 def fetch_app_data():
     return jsonify(
         {"type": "IMAGERY", "externalType": "BING",
-         "options": {"url": "http://192.168.130.33:8001", "mapStyle": "Aerial",
+         "options": {"url": "http://127.0.0.1:8001", "mapStyle": "Aerial",
                      "key": "AmXdbd8UeUJtaRSn7yVwyXgQlBBUqliLbHpgn2c76DfuHwAXfRrgS5qwfHU6Rhm8"}, "attributions": [{
             "html": "<span><a href=\"https://cesium.com\" target=\"_blank\"><img alt=\"Cesium ion\" "
                     "src=\"https://assets.ion.cesium.com/ion-credit.png\"></a></span>",

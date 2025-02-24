@@ -83,10 +83,10 @@ def save_paths_to_json(paths, chunk_index):
 
 
 # Example usage
-lat1 = 42.849644
-lon1 = 121.489379
-lat2 = 34.280519
-lon2 = 133.571510
+lat1 = #
+lon1 = #
+lat2 = #
+lon2 = #
 
 import multiprocessing
 import sys
